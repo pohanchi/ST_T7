@@ -1,0 +1,12 @@
+\beamer@sectionintoc {1}{Transformer}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Encoder}{5}{0}{1}
+\beamer@subsectionintoc {1}{2}{Self-Attention}{6}{0}{1}
+\beamer@sectionintoc {2}{BERT}{7}{0}{2}
+\beamer@subsectionintoc {2}{1}{Archtecture \& Input}{8}{0}{2}
+\beamer@subsectionintoc {2}{2}{2 stage Training}{10}{0}{2}
+\beamer@subsectionintoc {2}{3}{Pre-Training}{11}{0}{2}
+\beamer@subsectionintoc {2}{4}{self-supervised learning}{13}{0}{2}
+\beamer@subsectionintoc {2}{5}{FineTune}{15}{0}{2}
+\beamer@subsectionintoc {2}{6}{Conclusion 2-stage training}{18}{0}{2}
+\beamer@sectionintoc {3}{BERT-Family}{19}{0}{3}
+\beamer@subsectionintoc {3}{1}{SpanBERT, Roberta, ALBERT}{21}{0}{3}
